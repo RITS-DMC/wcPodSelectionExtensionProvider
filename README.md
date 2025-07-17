@@ -33,9 +33,9 @@
             }]
           }
           
-  **Important Note: After pasting the above JSON:
+      Important Note: After pasting the above JSON:
           i. Ensure provider matches the correct plugin path. It should be: <data-name with slashes>/wcPodSelectionExtensionProvider/ExtensionProvider. For example, if your data-name is rits.extension.plugin, then it becomes: rits/extension/plugin/wcPodSelectionExtensionProvider/ExtensionProvider.
-          ii. Ensure pods and plants are updated based on your actual deployment targets. Replace "pod1", "pod2" and "plant1", "plant2" with real values.**
+          ii. Ensure pods and plants are updated based on your actual deployment targets. Replace "pod1", "pod2" and "plant1", "plant2" with real values.
           
 **4. Build and Deploy Your Plugin**
 
